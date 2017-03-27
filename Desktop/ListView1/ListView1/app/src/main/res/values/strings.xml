@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListView1</string>
+    <string name="title_activity_list_view">listViewActivity</string>
+    <string name="title_activity_custom_adapter_demo">CustomAdapterDemo</string>
+</resources>
